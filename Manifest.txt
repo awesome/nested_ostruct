@@ -1,0 +1,12 @@
+.autotest
+.gitignore
+.hoeignore
+Gemfile
+History.txt
+Manifest.txt
+README.md
+Rakefile
+bin/nested_ostruct
+lib/nested_ostruct.rb
+lib/nested_ostruct/version.rb
+test/test_nested_ostruct.rb
